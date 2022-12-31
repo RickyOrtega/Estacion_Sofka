@@ -1,0 +1,69 @@
+Naves Espaciales:
+
+Así como existen vehículos capaces de llevarte fuera de tu ciudad, como un bus, un carro o
+una moto; u otros capaces de llevarte inclusive fuera del continente, hay otro tipo de
+vehículos capaces de llevarte a ti o lo que prefieras fuera del planeta. Estos vehículos
+son las Naves Espaciales, las cuales han acaparado miradas gracias a la reciente carrera
+espacial que se ha desatado tratando de conquistar el espacio más inmediato.
+
+Como ya sabrás, no solo sirven para llevar personas fuera del plenta a decir: 
+
+"That’s one small step for man, one giant leap for mankind".
+
+-Neil Armstrong, 20 de Julio de 1969.
+
+También se usa para llevar consigo cargas, pequeños vehículos no tripulados, incluso
+distintos animales han sido tripulantes de las naves espaciales.
+Son exactamente tres tipos principales de naves espaciales, los cuales conocerás
+a continuación:
+
+
+1. Vehículos Lanzadera:
+
+	Acerca de: 
+	
+	Su imponente tamaño y el hecho de que dispone de varios propulsores, le dan la fuerza
+	suficiente para llevar consigo carga útil a una zona en el espacio lo suficientemente
+	lejos como para evitar que ésta (la carga) se precipite por acción gravitatoria
+	contra la tierra.
+	Esto lo logra con cierta facilidad ya que	esta es su utilidad principal.
+	
+	Sus cargas más comunes son: vehículos con tripulación, sondas espaciales
+	o satélites artificiales.
+
+	> Capacidad de carga:
+	> Objeto/s que transporta:
+
+2. Naves espaciales no Tripuladas:
+	
+	Acerca de: 
+
+	Pese a su modesto tamaño, las Naves Espaciales no Tripuladas, tienen el objetivo principal
+	de observar los distintos cuerpos celestes con un enfoque científico e investigativo.
+
+	Características:
+	
+	> Cantidad de motores:
+	> Cuerpo celeste que observa:
+	> Cuerpo celeste que orbita:
+
+3. Naves espaciales Tripuladas:
+
+	Acerca de:
+
+	Su objetivo principal consiste en transportar seres humanos, en misiones donde es
+	indispensable la presencia humana. Los principales exponentes son los distintos centros
+	de investigación que orbitan o han orbitado la tierra.
+	
+	> Distancia a la que orbita/orbitaba (en km):
+	> Capacidad máx. tripulación:
+
+CARACTERÍSTICAS COMUNES:
+	
+	> Fecha de lanzamiento:
+ 	> País fabricante:
+	> País lanzamiento:
+	> Puesta en órbita: Autopropulsado.
+	> Tipo de combustible: Petroleo Refinado/Oxigeno líquido
+	> Peso:
+	> Altura:

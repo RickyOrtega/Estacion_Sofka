@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="ISO-8859-1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/styles_creando_nave.css">
+    <title>Creador de Naves</title>
+</head>
+
+<body>
+    <div class="contenedor">
+        <header>
+            <nav>
+                <ul>
+                    <li>Mis naves</li>
+                    <li>Nueva nave</li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <h1>CREANDO NUEVA NAVE</h1>
+            <form action="nave_creada.jsp" id="formulario" method="post">
+                <label for="nombre">Nombre de la Nave:<input type="text" name="nombre"></label>
+                <label for="fecha">Fecha lanzamiento: <input type="date" name="fecha" id="fecha"></label>
+                <label for="pais_nave">País de origen:<input type="text" name="pais_nave"></label>
+                <label for="pais_lanzamiento">
+                    País lanzamiento:
+                    <select name="pais_lanzamiento" id="pais_lanzamiento">
+                        <!--Estos datos los tomÃ© de la siguiente pÃ¡gina,
+                            la cual enlista los paÃ­ses con capacidad de lanzamiento:
+                        
+                            https://sites.google.com/site/3esoaemanuel/home/paises-con-capacidad-de-lanzamiento-->
+                        <option value="china">China</option>
+                        <option value="eeuu">Estados Unidos</option>
+                        <option value="francia">Francia</option>
+                        <option value="india">India</option>
+                        <option value="iran">Irán</option>
+                        <option value="israel">Israel</option>
+                        <option value="japon">Japón</option>
+                        <option value="uk">Reino Unido</option>
+                        <option value="urss">Rusia</option>
+                    </select>
+                </label>
+                <label for="peso">Peso:
+                    <input type="number" placeholder="En Toneladas" name="peso">
+                </label>
+                <br>
+                <label for="altura">Altura:
+                    <input type="number" placeholder="En Metros" name="altura">
+                </label>
+                <label for="empuje">Empuje:
+                    <input type="number" placeholder="En Toneladas" name="empuje">
+                </label>
+                <br>
+                <label for="tipo_nave">Tipo de nave:
+                    <select name="tipo_nave" id="tipo_nave">
+                        <option value="none" selected disabled>Seleccione una opciÃ³n</option>
+                        <option value="lanzadera">Vehículo Lanzadera</option>
+                        <option value="tripulada">Tripulada</option>
+                        <option value="no_tripulada">No tripulada</option>
+                    </select>
+                </label>
+                <div id="contenido_emergente" class="contenido_emergente">
+                    <!--Esta parte se generará automáticamente gracias al evento change y unas funciones que definí en el script.js-->
+                </div>
+            </form>
+        </main>
+        <footer>
+            <div class="red-social">
+                <a href="https://github.com/RickyOrtega"><img src="resources/img/github.svg"
+                        alt="Enlace a mi cuenta de GitHub"></a>
+            </div>
+            <div class="red-social">
+                <a href="https://www.linkedin.com/in/rickyrhonaldoortegavital/"><img src="resources/img/linkedin.svg"
+                        alt="Enlace a mi cuenta de GitHub"></a>
+            </div>
+        </footer>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
